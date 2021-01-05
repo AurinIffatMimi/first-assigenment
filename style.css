@@ -1,5 +1,7 @@
 section{
     height: 500px;
+    padding: 8%;
+    
 }
 #name{
     color:#e97a7a;
@@ -11,18 +13,20 @@ section{
 .first{
     width:40%;
     float:left;
+    margin:2% 5%;
 }
 
 .first img{
-    width:60%;
+    width:90%;
 }
 
 .secound{
     width:40%;
     float:left;
+    margin:2% 5%;
 }
 .secound img{
-    width:60%;
+    width:90%;
 }
 
 .fl{
@@ -95,6 +99,7 @@ section{
     
 
 }
+
 
 
 
