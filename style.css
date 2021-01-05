@@ -39,7 +39,6 @@ section{
     background-color: lightgray;
     text-align: center;
     margin:50px;
-
 }
 
 
@@ -50,10 +49,27 @@ section{
     background-color: white;
     width:30%;
     float:left;
-    padding:2px;
-    margin:2px 2px;
-    margin-right: 4px;;
+    height:70%;
+    padding:10px 10px;
+    margin:5px;
+    border-radius: 10px 10px;
+   
+    
 }
 .project img{
     width:70%;
 }
+#www{
+    color:white;
+}
+#problem{
+    width:90%;
+    height:90%;
+    margin:2% 3.5%;
+    padding:2%;
+
+}
+
+
+
+
