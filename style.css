@@ -7,14 +7,6 @@ section{
 #font{
     font-family: 'Oswald', sans-serif;
 }
-#hire{
-    text-decoration: none;
-    background-image:linear-gradient(lightsalmon,tomato);
-    color:white;
-    margin:2px 2px;
-    padding:4px;
-    border-radius: 5px;
-}
 
 .first{
     width:40%;
@@ -33,11 +25,35 @@ section{
     width:60%;
 }
 
-#fb{
+.fl{
     text-decoration: none;
     background-image: linear-gradient(lightsalmon,tomato);
     color:white;
     margin:2px 2px;
     padding:4px;
     border-radius: 5px;
+}
+
+
+#task{
+    background-color: lightgray;
+    text-align: center;
+    margin:50px;
+
+}
+
+
+#llas{
+    color:#e97a7a;
+}
+.project{
+    background-color: white;
+    width:30%;
+    float:left;
+    padding:2px;
+    margin:2px 2px;
+    margin-right: 4px;;
+}
+.project img{
+    width:70%;
 }
