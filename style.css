@@ -1,0 +1,24 @@
+section{
+    height: 500px;
+}
+#name{
+    color:#e97a7a;
+}
+#font{
+    font-family: 'Oswald', sans-serif;
+}
+#hire{
+    text-decoration: none;
+    background-image:linear-gradient(lightsalmon,tomato);
+    color:white;
+    margin:2px 2px;
+    padding:4px;
+    border-radius: 5px;
+}
+.first{
+    width:40%;
+    float:left;
+}
+.first img{
+    width:60%;
+}
