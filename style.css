@@ -52,29 +52,40 @@ section{
 }
 .project{
     background-color: white;
-    width:30%;
+    width:25%;
     float:left;
-    height:70%;
-    padding:10px 10px;
-    margin:5px;
+    height:60%;
+    padding:0 10px;
+    margin:40px 38px;
     border-radius: 10px 10px;
    
     
 }
 .project img{
-    width:70%;
+    width:60%;
+    margin:4px 60px;
+    
 }
+
 #www{
     color:white;
     font-size: 30px;
 }
+
 #problem{
     width:90%;
-    height:90%;
+    height:100%;
     margin:2% 3.5%;
     padding:2%;
+    background-color: gray;
 
 }
+
+#work{
+    margin:40px 510px;
+}
+
+
 .fun{
     background-image:url("images/Group_33094_1.png") ;
     background-size: cover;
@@ -91,7 +102,7 @@ section{
     width: 40%;
     height: 60%;
     float:left;
-    margin:2% 5%;
+    margin:3px 30px;
     
    
 }
@@ -108,17 +119,26 @@ section{
     font-size:50px ;
 }
 
-footer{
-    background-color: blue purple;
-}
+
 #chat{
     text-decoration: none;
     background-image: linear-gradient(lightsalmon,tomato);
     color:white;
-    margin:3px 3px;
+    margin:8px 100px;
     padding:10px;
     border-radius: 5px;
 }
+
+
+
+#e{
+    text-align: center;
+    
+}
+footer{
+    text-align: center;
+}
+
 
 
 
